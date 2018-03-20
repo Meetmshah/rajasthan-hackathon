@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "196617402404",
+    "firebase_url": "https://bell-84c55.firebaseio.com",
+    "project_id": "bell-84c55",
+    "storage_bucket": "bell-84c55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196617402404:android:239f7c9e1812f303",
+        "android_client_info": {
+          "package_name": "com.example.niraj.bell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196617402404-gf4llji4sl5e2d2t1ttpg2qpgjn5ikt7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.niraj.bell",
+            "certificate_hash": "67afd2a7a50d9b6f0bf15bf5a3565019a7047069"
+          }
+        },
+        {
+          "client_id": "196617402404-rjuctukcg95vo25hiclmj3oefs34bv6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVonH0TzR2Yviq7BmsyYa9ddSRxr9rhTM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196617402404-rjuctukcg95vo25hiclmj3oefs34bv6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

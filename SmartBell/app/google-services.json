@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "234981485588",
+    "firebase_url": "https://smartbell-3a453.firebaseio.com",
+    "project_id": "smartbell-3a453",
+    "storage_bucket": "smartbell-3a453.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234981485588:android:3285c4d8bd93ca58",
+        "android_client_info": {
+          "package_name": "com.example.niraj.smartbell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234981485588-ao1d8agpmi44pr7ard6pmaebep76edi8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.niraj.smartbell",
+            "certificate_hash": "67afd2a7a50d9b6f0bf15bf5a3565019a7047069"
+          }
+        },
+        {
+          "client_id": "234981485588-bn01tcn56u30l07889hinaj19ai3g2vr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1xgu8G7NENpHyka1c7CjzIA_1Tbmkq8A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234981485588-bn01tcn56u30l07889hinaj19ai3g2vr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
