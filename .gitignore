@@ -7,4 +7,4 @@
 /build
 /captures
 .externalNativeBuild
-/__pycache__
+**/__pycache__/**
