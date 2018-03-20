@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "202763365202",
+    "firebase_url": "https://rajasthan-hackathon-74e3d.firebaseio.com",
+    "project_id": "rajasthan-hackathon-74e3d",
+    "storage_bucket": "rajasthan-hackathon-74e3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202763365202:android:82cb218ca35cf6c1",
+        "android_client_info": {
+          "package_name": "io.github.harsh8398.gcmclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202763365202-3b01e3sfjvvoappshvmogmkvmri736m9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.harsh8398.gcmclient",
+            "certificate_hash": "62223c8985c864e85f7d0d8084b1e519a5570279"
+          }
+        },
+        {
+          "client_id": "202763365202-39g7it9cvtvrgn655t5a7g99id289nj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0hbA-wOTvHvBnDRxurXtzOqbPB9NZi64"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202763365202-39g7it9cvtvrgn655t5a7g99id289nj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
