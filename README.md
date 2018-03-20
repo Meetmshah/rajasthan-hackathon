@@ -10,20 +10,20 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-install dlib on macOS/Ubuntu
+#### install dlib on macOS/Ubuntu
 * [How to install dlib from source on macOS or Ubuntu](https://gist.github.com/ageitgey/629d75c1baac34dfa5ca2a1928a7aeaf)
 
 ### Installing
 
-# first clone the repo
+#### first clone the repo
 ```
 git clone https://github.com/Meetmshah/rajasthan-hackathon.git
 ```
-# change directory to project root
+#### change directory to project root
 ```
 cd rajasthan-hackathon
 ```
-# install dependencies using pip
+#### install dependencies using pip
 ```
 pip install -r requirements.txt
 ```
