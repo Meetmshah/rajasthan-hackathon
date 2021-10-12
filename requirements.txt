@@ -6,7 +6,7 @@ face-recognition==1.2.1
 face-recognition-models==0.3.0
 idna==2.6
 numpy==1.14.2
-opencv-contrib-python==3.4.0.12
+opencv-contrib-python==3.4.7.28
 Pillow==5.0.0
 pyfcm==1.4.5
 requests==2.18.4
